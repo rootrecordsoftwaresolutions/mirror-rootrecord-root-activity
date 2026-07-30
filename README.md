@@ -5,7 +5,7 @@ RootMC playtime activity by timezone (IP estimate + Discord override).
 | Field | Value |
 |-------|-------|
 | **Folder / artifact** | `root-activity` |
-| **Version** | `1.7.0` |
+| **Version** | `1.7.1` |
 | **Bukkit name** | `Root-Activity` |
 | **Paper API** | `26.1` |
 | **Author** | Root Record |
@@ -22,7 +22,7 @@ When the BuiltByBit product is live, this section will link directly to the paid
 
 ## Install
 
-1. Purchase / download `root-activity-1.7.0.jar` from BuiltByBit (coming soon) or your licensed RootMC distribution channel.
+1. Purchase / download `root-activity-1.7.1.jar` from BuiltByBit (coming soon) or your licensed RootMC distribution channel.
 2. Install **[Root-Core](https://github.com/RootRecord/root-core)** first when required (license/cloud spine for the suite).
 3. Remove any older `root-activity-*.jar` from `plugins/`.
 4. Drop the new jar into `plugins/` and restart (or use Root-Core suite updater when this plugin is on your licensed manifest).
